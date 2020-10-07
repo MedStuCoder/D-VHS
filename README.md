@@ -3,6 +3,7 @@ Python program for converting any given file to video recordable to VHS cassette
 
 Please visit the GitLab Repo for the code:
 https://gitlab.com/MedStuCoder/dvhs
+
 Thank you!
 
 ![Gitlab Page](https://github.com/MedStuCoder/D-VHS/blob/main/GitLabPageQRCode.png)
